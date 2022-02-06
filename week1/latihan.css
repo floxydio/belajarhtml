@@ -1,0 +1,22 @@
+.dio {
+    color: red;
+    font-size: 26px;
+    font-weight: bold;
+    text-align: center;
+}
+#iqbal {
+    color: greenyellow;
+    font-size: 26px;
+    font-weight: bold;
+    text-align: end;
+}
+
+.kotak {
+    padding-top: 20px;
+    padding-left: 20px; 
+    font-family: sans-serif;
+    color: white;
+    width: 50%;
+    height: 70px;
+    background-color: brown;
+}
